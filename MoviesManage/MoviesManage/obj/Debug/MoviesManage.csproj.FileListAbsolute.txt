@@ -9,3 +9,15 @@ D:\2019皇家工程\作业\zero\MoviesManage\MoviesManage\obj\Debug\MoviesManage
 D:\2019皇家工程\作业\zero\MoviesManage\MoviesManage\obj\Debug\MoviesManage.pdb
 D:\2019皇家工程\作业\zero\MoviesManage\MoviesManage\obj\Debug\MoviesManage.csprojAssemblyReference.cache
 D:\2019皇家工程\作业\zero\MoviesManage\MoviesManage\obj\Debug\MoviesManage.UMovie.resources
+D:\2019皇家工程\作业\zero\MovieSys-MovieInfo\MoviesManage\MoviesManage\bin\Debug\MoviesManage.exe.config
+D:\2019皇家工程\作业\zero\MovieSys-MovieInfo\MoviesManage\MoviesManage\bin\Debug\MoviesManage.exe
+D:\2019皇家工程\作业\zero\MovieSys-MovieInfo\MoviesManage\MoviesManage\bin\Debug\MoviesManage.pdb
+D:\2019皇家工程\作业\zero\MovieSys-MovieInfo\MoviesManage\MoviesManage\obj\Debug\MoviesManage.csprojAssemblyReference.cache
+D:\2019皇家工程\作业\zero\MovieSys-MovieInfo\MoviesManage\MoviesManage\obj\Debug\MoviesManage.Properties.Resources.resources
+D:\2019皇家工程\作业\zero\MovieSys-MovieInfo\MoviesManage\MoviesManage\obj\Debug\MoviesManage.csproj.GenerateResource.cache
+D:\2019皇家工程\作业\zero\MovieSys-MovieInfo\MoviesManage\MoviesManage\obj\Debug\MoviesManage.csproj.CoreCompileInputs.cache
+D:\2019皇家工程\作业\zero\MovieSys-MovieInfo\MoviesManage\MoviesManage\obj\Debug\MoviesManage.exe
+D:\2019皇家工程\作业\zero\MovieSys-MovieInfo\MoviesManage\MoviesManage\obj\Debug\MoviesManage.pdb
+D:\2019皇家工程\作业\zero\MovieSys-MovieInfo\MoviesManage\MoviesManage\obj\Debug\MoviesManage.FilmInformationBackForm.resources
+D:\2019皇家工程\作业\zero\MovieSys-MovieInfo\MoviesManage\MoviesManage\obj\Debug\MoviesManage.FilmInformation.resources
+D:\2019皇家工程\作业\zero\MovieSys-MovieInfo\MoviesManage\MoviesManage\obj\Debug\MoviesManage.MovieInfo.resources

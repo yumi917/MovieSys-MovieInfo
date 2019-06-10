@@ -3,17 +3,17 @@ create database MovieDB
 create table Movie
 (
    MID	int primary key identity(1,1),
-   MovieImage varchar(200),
-   MovieName Nvarchar(200),
-   MainPerformer Nvarchar(100),
-   MovieTypeId varchar(20),
-   Area	nvarchar(10),
-   TimeLength varchar(20),
-   OnTime	date,
-   Synopsis	Nvarchar(400),
-   ShowStarTime	date,
-   ShowEndTime	date,
-   MovieState	char(2)
+   MovieImage varchar(200),--用来 但是只在SQL里面 WinForm未使用
+   MovieName Nvarchar(200),--影片名
+   MainPerformer Nvarchar(100),--主演
+   MovieTypeId varchar(20),--类型
+   Area	nvarchar(10),--地区
+   TimeLength varchar(20),--时长
+   OnTime	date,--上映时间
+   Synopsis	Nvarchar(400),--简介
+   ShowStarTime	date,--未用 开始日期
+   ShowEndTime	date,--未用 结束日期
+   MovieState	char(2)--状态
 
 )
 
